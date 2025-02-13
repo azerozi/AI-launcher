@@ -4,11 +4,17 @@
 
 ## 环境要求
 python >= 3.8
+
 torch >= 2.0.0
+
 transformers >= 4.36.0
+
 tkinter (Python自带)
+
 numpy >= 1.24.0
+
 accelerate >= 0.25.0
+
 safetensors >= 0.4.0
 
 
