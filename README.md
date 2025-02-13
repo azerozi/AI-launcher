@@ -72,8 +72,5 @@ safetensors >= 0.4.0
    - 检查显卡驱动是否正常
    - 查看程序错误输出
 
-## 开源协议
-MIT License
-
 如有问题或建议，欢迎提交Issue或Pull Request。如果你不想这么麻烦，这里有一键启动程序链接：https://pan.xunlei.com/s/VOIz9_SCeCAI3TS-k7FUBPMeA1?pwd=ugvx#
 
